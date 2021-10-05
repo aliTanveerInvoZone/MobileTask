@@ -1,0 +1,6 @@
+module Pods_MobileTask_MobileTaskTests {
+  umbrella header "Pods-MobileTask-MobileTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
